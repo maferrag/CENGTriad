@@ -41,8 +41,6 @@ The corpus covers cybersecurity concepts embedded in UAV, autonomous-driving, an
 }
 ```
 
-Generation metadata, prompt versions, model identifiers, provenance records, and review findings should remain separate from public items unless explicitly approved for release.
-
 ## Framework and evaluation protocol
 
 The framework follows a seven-stage pipeline: source and curriculum planning, cybersecurity concept alignment, autonomous-system scenario assignment, assessment generation, validation and repair, multi-scale corpus construction, and controlled learner-tutor evaluation.
