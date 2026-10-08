@@ -6,6 +6,8 @@ CENGTriad is a dataset-and-evaluation framework for studying how large language 
 
 The project evaluates both sides of an educational interaction: learner agents answer cybersecurity assessment items, while tutor agents diagnose misconceptions and provide constrained, Socratic guidance. The evaluation distinguishes genuine correction from improvement caused by answer-revealing hints.
 
+[![Watch the video](https://img.youtube.com/vi/Yz6QF3y-Yx0/maxresdefault.jpg)](https://youtu.be/Yz6QF3y-Yx0)
+
 ## Why CENGTriad?
 
 Existing studies often focus on a single course, chatbot, model, or instructional artifact. CENGTriad brings together a curriculum-aligned dataset family, heterogeneous learner models, external tutor agents, paired leakage-aware evaluation, and held-out tutor selection.
